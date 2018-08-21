@@ -46,6 +46,10 @@ results = cross_val_score(model, X_all, y_all, cv=kfold, n_jobs=-1, scoring='roc
 print("AUC: %.2f%% (%.2f%%)" % (results.mean()*100, results.std()*100))
 ```
 
+## Bioinformatics
+TCGA LGG study:  
+https://www.nejm.org/doi/full/10.1056/NEJMoa1402121
+
 ## Julia
 Julia learning resources:  
 https://julialang.org/learning/
