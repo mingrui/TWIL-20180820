@@ -4,6 +4,7 @@ This week is mostly spent on
 1. www.metanet.hk
 2. using machine learning to study tumor features and mutation data.
 
+# List
 Pytorch multigpu example:  
 https://pytorch.org/tutorials/beginner/former_torchies/parallelism_tutorial.html
 
