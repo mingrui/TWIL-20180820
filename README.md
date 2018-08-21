@@ -50,6 +50,9 @@ print("AUC: %.2f%% (%.2f%%)" % (results.mean()*100, results.std()*100))
 TCGA LGG study:  
 https://www.nejm.org/doi/full/10.1056/NEJMoa1402121
 
+T2–FLAIR Mismatch, an Imaging Biomarker for IDH and 1p/19q Status in Lower-grade Gliomas: A TCGA/TCIA Project  
+http://clincancerres.aacrjournals.org/content/clincanres/early/2017/09/11/1078-0432.CCR-17-0560.full.pdf
+
 ## Julia
 Julia learning resources:  
 https://julialang.org/learning/
