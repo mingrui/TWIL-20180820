@@ -19,6 +19,14 @@ A very good pytorch video lecture series:
 https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&disable_polymer=true
 
 
+Jupyter and Ngrok:  
+https://md.ekstrandom.net/blog/2016/04/remote-analysis-with-jupyter-and-ngrok  
+
+
+Anaconda direnv:  
+https://github.com/direnv/direnv/wiki/Python
+
+
 Disable jupyter notebook error / warning output for one cell:  
 https://ipython.readthedocs.io/en/stable/interactive/magics.html?highlight=capture#cellmagic-capture
 * code:  
@@ -69,3 +77,7 @@ https://github.com/ritchieng/the-incredible-pytorch
 ## Research
 Medical Imaging with Deep Learning:  
 https://openreview.net/group?id=MIDL.amsterdam/2018/Conference
+
+## Programming
+Git init existing directory with remote project:  
+https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus
