@@ -54,7 +54,7 @@ results = cross_val_score(model, X_all, y_all, cv=kfold, n_jobs=-1, scoring='roc
 print("AUC: %.2f%% (%.2f%%)" % (results.mean()*100, results.std()*100))
 ```
 
-NAN error after stratified shuffle split before kfold cross validation:
+__NAN error after stratified shuffle split before kfold cross validation:__  
 https://stackoverflow.com/questions/39376967/nans-suddenly-appearing-for-sklearn-kfolds
 
 
