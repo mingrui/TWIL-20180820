@@ -58,6 +58,10 @@ __NAN error after stratified shuffle split before kfold cross validation:__
 https://stackoverflow.com/questions/39376967/nans-suddenly-appearing-for-sklearn-kfolds
 
 
+Install python packages from within jupyter notebook:  
+https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
+
+
 ## Bioinformatics
 TCGA LGG study:  
 https://www.nejm.org/doi/full/10.1056/NEJMoa1402121
