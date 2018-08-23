@@ -62,16 +62,11 @@ Install python packages from within jupyter notebook:
 https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
 
 
-Rclone limit bandwidth (speed limit):  
-`--bwlimit` option  
-`rclone --bwlimit=50000k copy googledrive:CAMELYON17 CAMELYON17 -v --stats 5s`
-
-
 Machine Learning Flashcards:  
 https://store.chrisalbon.com/courses/machine-learning-flashcards
 
 
-Chris Albon's blog about data science:
+Chris Albon's blog about data science:  
 https://chrisalbon.com/
 
 
@@ -102,3 +97,8 @@ https://openreview.net/group?id=MIDL.amsterdam/2018/Conference
 ## Programming
 Git init existing directory with remote project:  
 https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus
+
+Rclone limit bandwidth (speed limit):  
+`--bwlimit` option  
+`rclone --bwlimit=50000k copy googledrive:CAMELYON17 CAMELYON17 -v --stats 5s`
+
