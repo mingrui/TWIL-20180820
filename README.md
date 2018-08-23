@@ -67,6 +67,14 @@ Rclone limit bandwidth (speed limit):
 `rclone --bwlimit=50000k copy googledrive:CAMELYON17 CAMELYON17 -v --stats 5s`
 
 
+Machine Learning Flashcards:  
+https://store.chrisalbon.com/courses/machine-learning-flashcards
+
+
+Chris Albon's blog about data science:
+https://chrisalbon.com/
+
+
 ## Bioinformatics
 TCGA LGG study:  
 https://www.nejm.org/doi/full/10.1056/NEJMoa1402121
