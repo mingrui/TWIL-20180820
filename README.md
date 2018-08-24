@@ -70,6 +70,10 @@ Chris Albon's blog about data science:
 https://chrisalbon.com/
 
 
+Alice Zheng's website:  
+https://alicezheng.org/  
+She is the author of http://shop.oreilly.com/product/0636920049081.do
+
 ## Bioinformatics
 TCGA LGG study:  
 https://www.nejm.org/doi/full/10.1056/NEJMoa1402121
